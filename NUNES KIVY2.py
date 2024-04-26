@@ -6,4 +6,4 @@ class MyApp(App):
         return Button(text='Hello World')
 
 if __name__ == '__main__':
-    MyApp().run() 
+    MyApp().run()
